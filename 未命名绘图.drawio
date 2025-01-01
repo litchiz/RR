@@ -5651,9 +5651,6 @@
         <mxCell id="HrA1ecryQnvvoJT_UUct-1450" value="test data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-2564.02" y="982" width="95" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="HrA1ecryQnvvoJT_UUct-1451" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;测试阶段：对无标签数据进行预测&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-2588.95" y="892" width="209.95" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="HrA1ecryQnvvoJT_UUct-1464" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Fusion Classification Model&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2074.2133333333336" y="888" width="174" height="36" as="geometry" />
         </mxCell>
