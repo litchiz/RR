@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="RyY5nZNIsYxHvSIVB-sh">
-    <mxGraphModel dx="4415" dy="1749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4687" dy="1932" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5456,7 +5456,7 @@
         <mxCell id="HrA1ecryQnvvoJT_UUct-1503" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HrA1ecryQnvvoJT_UUct-1498" target="HrA1ecryQnvvoJT_UUct-1502" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HrA1ecryQnvvoJT_UUct-1498" value="预测编码模块&lt;div&gt;（上下文编码器）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="HrA1ecryQnvvoJT_UUct-1498" value="对比预测编码模块&lt;div&gt;（上下文编码器）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-2301.84" y="1534.5" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HrA1ecryQnvvoJT_UUct-1504" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="HrA1ecryQnvvoJT_UUct-1502" edge="1">
@@ -5470,7 +5470,7 @@
         <mxCell id="HrA1ecryQnvvoJT_UUct-1516" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HrA1ecryQnvvoJT_UUct-1506" target="HrA1ecryQnvvoJT_UUct-1511" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HrA1ecryQnvvoJT_UUct-1506" value="预测编码模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="HrA1ecryQnvvoJT_UUct-1506" value="对比预测编码模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-2303.66" y="1398.75" width="147" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HrA1ecryQnvvoJT_UUct-1515" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HrA1ecryQnvvoJT_UUct-1507" target="HrA1ecryQnvvoJT_UUct-1511" edge="1">
@@ -5592,7 +5592,7 @@
         <mxCell id="uWP5H3GmNmwzRPtwhHF0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uWP5H3GmNmwzRPtwhHF0-30" target="uWP5H3GmNmwzRPtwhHF0-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uWP5H3GmNmwzRPtwhHF0-30" value="预测编码模块&lt;div&gt;（上下文编码器）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="uWP5H3GmNmwzRPtwhHF0-30" value="对比预测编码模块&lt;div&gt;（上下文编码器）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-2301.7400000000002" y="1686" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uWP5H3GmNmwzRPtwhHF0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="uWP5H3GmNmwzRPtwhHF0-33" edge="1">
